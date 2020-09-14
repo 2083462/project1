@@ -1,6 +1,6 @@
 <html>
 
-<head
+<head>
     <title>password vergeten</title>
 </head>
 
