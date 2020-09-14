@@ -1,6 +1,6 @@
 <html>
 
-<head
+<head>
     <title>Inloggen</title>
 </head>
 
